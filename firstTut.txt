@@ -1,4 +1,5 @@
 Hi, this is my first commit file
 Amit Added a commit.
-This is the second line.
+This is the 3rd line.
+This is the 4th line.
 I am commiting to this firstTut.txt
